@@ -1,2 +1,2 @@
-# P2-Interactive-Resume---Ali-Sassi
+# P2-Interactive-Resume
 alisassi1208
